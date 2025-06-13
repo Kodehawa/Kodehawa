@@ -1,8 +1,5 @@
 ### Hi there 👋 _peek_
 
-Stats below. Maybe. \
-![Kodehawa's github stats](https://github-readme-stats.vercel.app/api?username=kodehawa&show_icons=true&theme=onedark)
-
 <!--
 **Kodehawa/Kodehawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
